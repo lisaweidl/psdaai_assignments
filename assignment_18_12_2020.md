@@ -100,7 +100,7 @@ Opening [http://localhost:8081](http://localhost:8081) in a browser should say
 
 From part 1 of this assignment, you should know how to use Postman.
 
-As we know from part 2, the base URL of the API is `http://localhost:8081/`, so the full endpoints would be
+As we know from part 2, the base URL of the API is `http://localhost:8081`, so the full endpoints would be
 
 - `http://localhost:8081/todos`
 - `http://localhost:8081/todos/{id}`
