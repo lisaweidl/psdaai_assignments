@@ -71,7 +71,7 @@ Change the current directory (`cd`) in your commandline to the repository you ju
 Then type
 
 ```
-npm run install
+npm install
 ```
 
 to install the required additional libraries and
