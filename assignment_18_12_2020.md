@@ -70,11 +70,19 @@ Change the current directory (`cd`) in your commandline to the repository you ju
 
 Then type
 
+ˋˋˋ
+npm install
+ˋˋˋ
+
+to install the required additional libraries and
+
 ```
 npm run serve
 ```
 
-Now it should say
+to start the server.
+
+You will see
 
 ```
 Server running on port 8081.
