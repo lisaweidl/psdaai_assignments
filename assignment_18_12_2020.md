@@ -4,7 +4,7 @@ On Friday 11.12., we have looked at the basic functionality of an API and we sho
 
 ## Part 1
 
-Please watch these 3 videos carefully and also do the exercises using the [Postman](https://www.postman.com/) application.
+Please watch these 3 videos carefully and also do the exercises using the [Postman](https://www.postman.com/) application (you can download the application from [https://www.postman.com/downloads/](https://www.postman.com/downloads/)).
 
 - [Intro to APIs Part 1: What is an API?](https://www.youtube.com/watch?v=iFMLyMgCUTs)
 - [Intro to APIs Part 2: How to use an API?](https://www.youtube.com/watch?v=jCadnlO9xSQ)
